@@ -11,6 +11,8 @@ JOAQUIN SILVA
                                       LABORATORIO N3
 
 OBJETIVOS
+
+
 Analizar el método más correcto para resolver por nodos, encontrar los voltajes no/dales, realizar el circuito, medir y comparar con los valores calculados
 Realizar el circuito, medir los voltajes de nodo y comparar con los valores calculados.
 Analizar, calcular y obtener los voltajes nodales de cada esquema presentado.
@@ -24,6 +26,7 @@ Elaborar una tabla comparativa sobre el valor calculado, simulado y experimental
 Los métodos de análisis de nodos y mallas son herramientas que permiten la aplicación organizada y sistemática de las leyes de Kirchhoff (KVL o KCL) para resolver problemas complejos con un número de incógnitas y ecuaciones linealmente independientes muy reducido. En el método de análisis de nodos nos interesa conocer los voltajes de nodo para cada nodo del circuito. En el método de análisis de mallas nos interesa conocer las corrientes de malla para cada malla del circuito. 
 
 ANÁLISIS POR NODOS 
+
 
 En el análisis por nodos se parte de la aplicación de KCL a cada nodo del circuito para encontrar al final todos los voltajes de nodo del circuito. Para que el sistema de ecuaciones sea consistente debe haber una ecuación por cada nodo. Así el número de incógnitas (voltajes de nodo) es igual al número de ecuaciones (una por nodo). Por ejemplo; teniendo como resultado que cada nodo con voltaje que se desconoce saldrá una ecuación que finalmente tendrá una incógnita que sería el voltaje, en pocas palabras que cuando existen tres nodos distintos al de referencia, se obtendrán tres ecuaciones y tres las incógnitas, de esta manera el sistema lineal de ecuaciones podrá tener una solución. De acuerdo al tipo de circuito y la forma en que se seleccione el nodo de referencia se pueden tener distintas posibilidades de conexión de las fuentes:
 
