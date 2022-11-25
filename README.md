@@ -1,5 +1,15 @@
 UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
+INTEGRANTES:
+
+PAMELA MONTATIXE 
+
+MAURICIO TACO
+
+JOAQUIN SILVA
+
+                                      LABORATORIO N3
+
 OBJETIVOS
 Analizar el método más correcto para resolver por nodos, encontrar los voltajes no/dales, realizar el circuito, medir y comparar con los valores calculados
 Realizar el circuito, medir los voltajes de nodo y comparar con los valores calculados.
