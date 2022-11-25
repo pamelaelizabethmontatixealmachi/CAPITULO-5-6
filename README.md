@@ -10,7 +10,7 @@ JOAQUIN SILVA
 
                                       LABORATORIO N3
 
-OBJETIVOS
+1. OBJETIVOS
 
 
 Analizar el método más correcto para resolver por nodos, encontrar los voltajes no/dales, realizar el circuito, medir y comparar con los valores calculados
